@@ -12,8 +12,6 @@ permissions:
 
 jobs:
   test:
-
-  test:
     runs-on: ${{ matrix.os }}-latest
     strategy:
       fail-fast: false
