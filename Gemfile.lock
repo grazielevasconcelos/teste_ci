@@ -104,7 +104,6 @@ GEM
     unicode-display_width (2.4.2)
 
 PLATFORMS
-  x86_64-linux
   x86_64-linux-musl
 
 DEPENDENCIES
@@ -125,7 +124,7 @@ DEPENDENCIES
   simplecov-rcov
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 3.1.0p0
 
 BUNDLED WITH
-   2.3.26
+   2.3.3
