@@ -1,4 +1,4 @@
-name: Ruby
+name: Ruby_CI
 
 on:
   workflow_dispatch:
